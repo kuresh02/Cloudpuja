@@ -1,0 +1,7 @@
+{
+  "name": "cloudPuja",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
